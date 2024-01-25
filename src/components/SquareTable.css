@@ -1,0 +1,22 @@
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+table{
+
+padding-left: 35%  ;
+    
+}
+button{
+    padding: 60px
+}
+.inputX{
+  background-color:green;
+  color: white;
+}
+.inputO{
+  background-color:rgb(255, 0, 0);
+  color: white;
+}
